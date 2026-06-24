@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am a final-year Computer Science Engineering student at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology with a strong passion for Artificial Intelligence, Machine Learning, Data Analytics, and Software Development. I enjoy building technology-driven solutions that solve real-world problems through intelligent automation, data-driven decision-making, and scalable backend systems.<br><br>My project portfolio includes developing an AI-Powered Intelligent Ticket Automation System that leverages machine learning to classify, prioritize, and route support tickets, improving operational efficiency through automated decision support and real-time analytics. I also built Inventra, a full-stack inventory management platform using Node.js, Express.js, and MySQL, featuring REST APIs, stock validation, relational database design, and interactive dashboards. Additionally, I developed an Airbnb Dynamic Pricing Recommendation Engine using Python and data analytics techniques to identify pricing patterns and generate actionable insights from large datasets. Earlier, I designed a Wireless Charging System for Electric Vehicles using Arduino technology to enhance charging efficiency through automatic alignment detection and smart indicators.<br><br>Beyond academics, I have gained practical industry experience as a Data Analyst Intern, where I worked on data cleaning, visualization, SQL-based analysis, and business insights generation. I actively participate in coding competitions, aptitude assessments, and innovation challenges, including winning the national round of CP CUP India 2025. I am continuously expanding my expertise in AI, Machine Learning, Large Language Models, and intelligent automation systems while seeking opportunities to contribute to impactful and innovative technology solutions.
 
-<!--
-**iamgiridharan/iamgiridharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/iam_giridharan.s/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inkedin.com/in/giridharan-s-5725a8330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giridharan8341@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=iamgiridharan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=iamgiridharan&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamgiridharan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamgiridharan&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
