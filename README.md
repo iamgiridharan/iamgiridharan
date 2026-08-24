@@ -10,10 +10,8 @@ I am a final-year Computer Science Engineering student at Vel Tech Rangarajan Dr
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamgiridharan&show_icons=true&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgiridharan&layout=compact&theme=github_dark)
-![](https://streak-stats.demolab.com/?user=iamgiridharan&theme=github_dark)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamgiridharan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamgiridharan&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+
 
 
